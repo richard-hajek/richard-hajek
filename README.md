@@ -16,5 +16,5 @@ This is my profile where I post mostly exploratory things.
 
 #### Other Knowledge
 
-![pypi](https://badgen.net/badge/icon/pypi?icon=pypi&label)
-![terraform](https://badgen.net/badge/icon/terraform?icon=terraform&label)
+- PyPi
+- Terraform
