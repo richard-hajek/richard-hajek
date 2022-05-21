@@ -8,4 +8,4 @@ I consider AI my main field of work, I specialize in **deep learning** and **rei
 
 In my work, I have used or encountered PyPI, Terraform, Kubernetes, Selenium, C++ and many others.
 
-In my free time I create art in Blender or games in Godot. I am interested in quantified self and have a rich background of behavioural self-management.
+When I feel so inclined, I create art in Blender or games in Godot. I am interested in quantified self and have a rich background of behavioural self-management.
