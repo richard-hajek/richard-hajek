@@ -26,5 +26,5 @@ This is my profile where I post mostly exploratory things.
 #### My Interests
 
 - Artificial Intelligence
-- Efficient code management (Scripting, Bash, Git)
 - Gaming (Factorio)
+- Quantified Self
