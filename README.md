@@ -13,8 +13,12 @@ This is my profile where I post mostly exploratory things.
 
 - Git
 - Docker
+- Python
+- Bash
 
 #### Other Knowledge
 
-- PyPi
+- PiPy
 - Terraform
+- Blender
+- Godot
