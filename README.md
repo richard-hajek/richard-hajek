@@ -6,6 +6,9 @@ This is my profile where I post
 
 #### Software Engineering Specialty
 
+- Git
+- Docker
+
 ![git](https://badgen.net/badge/icon/git?icon=git&label)
 ![docker](https://badgen.net/badge/icon/docker?icon=docker&label)
 
@@ -21,7 +24,7 @@ This is my profile where I post
 
 #### GitWar
 
-![](https://gitwar.herokuapp.com/badge?username=richard-hajek)
+![heheheh](https://gitwar.herokuapp.com/badge?username=richard-hajek)
 
 <!--
 **richard-hajek/richard-hajek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
