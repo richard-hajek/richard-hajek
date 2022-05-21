@@ -22,3 +22,9 @@ This is my profile where I post mostly exploratory things.
 - Terraform
 - Blender
 - Godot
+
+#### My Interests
+
+- Artificial Intelligence
+- Efficient code management (Scripting, Bash, Git)
+- Gaming (Factorio)
