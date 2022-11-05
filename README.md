@@ -4,7 +4,7 @@
 
 This is my profile where I post mostly exploratory things.
 
-I consider AI my main field of work, I specialize in **deep learning** and **reinforced learning**. In order to facilitate as smooth as possible development of my apps, I also have a deep understanding of **git**, **docker**, **python** and **bash**, having led educationary seminars on some of them. 
+AI is my main field of work, I specialize in **deep learning** and **reinforced learning**. In order to facilitate as smooth as possible development of my apps, I also have a deep understanding of **git**, **docker**, **python** and **bash**, having led educationary seminars on some of them. 
 
 In my work, I have used or encountered PyPI, Terraform, Kubernetes, Selenium, C++ and many others.
 
